@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/MainScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Dystopia.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Utopia.unity
+  isLoaded: 1
+  isActive: 0
